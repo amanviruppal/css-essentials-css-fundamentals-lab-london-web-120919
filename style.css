@@ -28,8 +28,10 @@ featured-property p {
   text-align:center;
 }
 
-details {
+#details {
   display:block;
 }
 
-
+div {
+  float:left;
+}
